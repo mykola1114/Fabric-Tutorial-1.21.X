@@ -1,0 +1,10 @@
+{
+  "item.tutorialmod.shy_golden_apple": "Shy Golden Apple",
+  "item.tutorialmod.legendary_diamond": "Legendary Diamond",
+
+  "block.tutorialmod.legendary_diamond_block": "Legendary Diamond Block",
+  "block.tutorialmod.shy_golden_apple_block": "Shy Golden Apple Block",
+
+  "itemgroup.tutorialmod.my_items": "My Items",
+  "itemgroup.tutorialmod.my_blocks": "My Blocks"
+}

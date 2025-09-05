@@ -9,14 +9,14 @@
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/mykola1114/Fabric-Tutorial-1.21.X"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/tutorialmod/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"net.vertaloxi.tutorialmod.Tutorialmod"
+          "net.vertaloxi.tutorialmod.TutorialMod"
 		],
 		"fabric-datagen": [
 			"net.vertaloxi.tutorialmod.TutorialmodDataGenerator"

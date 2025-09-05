@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "tutorialmod:shy_golden_apple_block"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "id": "tutorialmod:shy_golden_apple"
+  }
+}
