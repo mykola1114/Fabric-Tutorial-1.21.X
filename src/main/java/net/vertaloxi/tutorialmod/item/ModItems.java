@@ -7,12 +7,15 @@ import net.minecraft.registry.Registries;
 import net.minecraft.registry.Registry;
 import net.minecraft.util.Identifier;
 import net.vertaloxi.tutorialmod.TutorialMod;
+import net.vertaloxi.tutorialmod.item.custom.ChiselItem;
 
 public class ModItems {
 
     public static final Item SHY_GOLDEN_APPLE = registerItem("shy_golden_apple", new Item(new Item.Settings()));
     public static final Item LEGENDARY_DIAMOND = registerItem("legendary_diamond", new Item(new Item.Settings()));
     public static final Item BLUE_SWORD = registerItem("blue_sword", new Item(new Item.Settings()));
+
+    public static final Item CHISEL = registerItem("chisel", new ChiselItem(new Item.Settings().maxDamage(32)));
 
     private static Item registerItem(String name, Item item) {
         return Registry.register(Registries.ITEM, Identifier.of(TutorialMod.MOD_ID, name), item);

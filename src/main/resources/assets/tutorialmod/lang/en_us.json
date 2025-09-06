@@ -3,8 +3,12 @@
   "item.tutorialmod.legendary_diamond": "Legendary Diamond",
   "item.tutorialmod.blue_sword": "Blue Sword",
 
+  "item.tutorialmod.chisel": "Chisel",
+
   "block.tutorialmod.legendary_diamond_block": "Legendary Diamond Block",
+  "block.tutorialmod.legendary_diamond_ore": "Legendary Diamond Ore",
   "block.tutorialmod.shy_golden_apple_block": "Shy Golden Apple Block",
+  "block.tutorialmod.magic_block": "Magic Block",
 
   "itemgroup.tutorialmod.my_items": "My Items",
   "itemgroup.tutorialmod.my_blocks": "My Blocks"
