@@ -19,6 +19,7 @@ public class ModItemGroups {
                     .entries((displayContext, entries) -> {
                         entries.add(ModItems.LEGENDARY_DIAMOND);
                         entries.add(ModItems.SHY_GOLDEN_APPLE);
+                        entries.add(ModItems.BLUE_SWORD);
 
                     }).build());
     public static final ItemGroup MY_BLOCKS = Registry.register(Registries.ITEM_GROUP, Identifier.of(TutorialMod.MOD_ID, "my_blocks"),
