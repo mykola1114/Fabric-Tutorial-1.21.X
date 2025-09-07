@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "L": {
+      "item": "tutorialmod:legendary_diamond"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "  L",
+    " S ",
+    "S  "
+  ],
+  "result": {
+    "count": 1,
+    "id": "tutorialmod:chisel"
+  }
+}

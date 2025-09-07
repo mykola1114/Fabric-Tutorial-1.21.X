@@ -11,7 +11,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "tutorialmod:shy_golden_apple_block"
+          "name": "tutorialmod:magic_block"
         }
       ],
       "rolls": 1.0

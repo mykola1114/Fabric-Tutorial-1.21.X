@@ -2,13 +2,13 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "#": {
+    "R": {
       "item": "tutorialmod:shy_golden_apple"
     }
   },
   "pattern": [
-    "##",
-    "##"
+    "RR",
+    "RR"
   ],
   "result": {
     "count": 1,

@@ -2,17 +2,17 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "#": {
+    "R": {
       "item": "tutorialmod:legendary_diamond"
     },
-    "/": {
+    "U": {
       "item": "minecraft:stick"
     }
   },
   "pattern": [
-    " # ",
-    " # ",
-    " / "
+    " R ",
+    " R ",
+    " U "
   ],
   "result": {
     "count": 1,
